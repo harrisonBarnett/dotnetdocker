@@ -1,0 +1,7 @@
+C:\Users\Harrison\dev\dotnetdocker\bin\Release\net6.0\publish\dotnetdocker.exe
+C:\Users\Harrison\dev\dotnetdocker\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Harrison\dev\dotnetdocker\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Harrison\dev\dotnetdocker\bin\Release\net6.0\publish\dotnetdocker.dll
+C:\Users\Harrison\dev\dotnetdocker\bin\Release\net6.0\publish\dotnetdocker.deps.json
+C:\Users\Harrison\dev\dotnetdocker\bin\Release\net6.0\publish\dotnetdocker.runtimeconfig.json
+C:\Users\Harrison\dev\dotnetdocker\bin\Release\net6.0\publish\dotnetdocker.pdb
