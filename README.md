@@ -55,6 +55,10 @@ where:
 - p = the port you'd like to map. the container will have its own port defaulted to :80, which you can map to whatever you want (in this case 8081) so that you can access the container from "the outside"
 - --name = lets you give your container a descriptive name
 
+### OKAY. WHEW.
+
+That wasn't so bad. Now you can manage your containers using Docker desktop or the CLI if you're feeling frisky. 
+
 
 ### helpful links:
 msdn on containerizing .net apps:
